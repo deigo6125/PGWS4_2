@@ -4,7 +4,7 @@
 # 結果画像
 
 
-![第2回の結果](<img width="1920" height="1080" alt="第2回 結果" src="https://github.com/user-attachments/assets/89d09687-f0b5-466a-955b-1f5ce8654359" />)
+![第2回の結果](https://github.com/deigo6125/PGWS4_2/blob/main/%E7%AC%AC2%E5%9B%9E%20%E7%B5%90%E6%9E%9C.png)
 - 工夫した点：あるオブジェクトの向こう側に設置された、オブジェクトの裏面のみを描写する表現を適用しました。
 
 # 進め方
