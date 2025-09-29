@@ -4,7 +4,7 @@
 # 結果画像
 
 
-![第2回の結果]([https://github.com/deigo6125/PGWS4_2/blob/main/%E7%AC%AC2%E5%9B%9E%20%E7%B5%90%E6%9E%9C.png](https://github.com/deigo6125/PGWS4_2/blob/main/%E7%AC%AC2%E5%9B%9E%20%E7%B5%90%E6%9E%9C.png))
+![第2回の結果](https://github.com/deigo6125/PGWS4_2/blob/main/%E7%AC%AC2%E5%9B%9E%20%E7%B5%90%E6%9E%9C.png)
 
 工夫した点：
 - あるオブジェクトの向こう側に設置されたオブジェクトを描写する表現を適用しました。
